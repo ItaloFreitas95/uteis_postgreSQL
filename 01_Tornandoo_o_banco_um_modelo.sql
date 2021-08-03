@@ -1,0 +1,1 @@
+update pg_database SET datistemplate = true where datname = 'meudb';
