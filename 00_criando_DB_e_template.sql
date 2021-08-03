@@ -1,0 +1,1 @@
+CREATE DATABASE meudb TEMPLATE template1;
