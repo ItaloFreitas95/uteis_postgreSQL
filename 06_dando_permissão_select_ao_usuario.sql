@@ -1,0 +1,1 @@
+grant select on alunos to jose;
