@@ -1,0 +1,1 @@
+create user jose password '123' valid until '2021-10-10';
